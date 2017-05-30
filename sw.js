@@ -6,9 +6,9 @@ self.addEventListener('install', function(e) {
 			'/',
 			'/index.html',
 			'/bundle.js',
-			'/node_modules/bootstrap/dist/css/bootstrap.min.css',
-			'/node_modules/react/dist/react.js',
-			'/node_modules/react-dom/dist/react-dom.js'
+			//'/node_modules/bootstrap/dist/css/bootstrap.min.css',
+			//'/node_modules/react/dist/react.js',
+			//'/node_modules/react-dom/dist/react-dom.js'
 			]);
 		})
 	);
